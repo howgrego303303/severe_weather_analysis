@@ -6,22 +6,32 @@ This project will analyze 25 years of severe weather through the use of NOAA's S
 
 ## Questions I will explore
 -Which state have undergone the most property damage from severe weather events?
+
 -Is severe weather getting worse over the past 25 years? Is the frequency or cost going up with time?
+
 -What weather event is the most common in each state?
+
 -Which event causes the most deaths and injuries?
+
 -What were the most destructive weather events?
 
 ## Data Source
 **Source**: NOAA National Center for Environmental Information
 
 **Dataset**: Storm Events Database - Details Files
+
 **Time Period**: January 2000 - December 2025
+
 **Link**: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
 
 ## Tools Used
+
 **DataGrip** - SQL queries and data cleaning
+
 **SQLite** - Database engine
+
 **Tableau Public** - Data visualization and dashboards
+
 **GitHub** - Version control and portfolio hosting
 
 ## Data Cleaning
