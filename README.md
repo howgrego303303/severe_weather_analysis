@@ -13,6 +13,7 @@ This project will analyze 25 years of severe weather through the use of NOAA's S
 
 ## Data Source
 **Source**: NOAA National Center for Environmental Information
+
 **Dataset**: Storm Events Database - Details Files
 **Time Period**: January 2000 - December 2025
 **Link**: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
