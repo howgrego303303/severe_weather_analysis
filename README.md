@@ -45,7 +45,7 @@ The NOAA data stores damage both property and crop as text strings (250K, 1M, ET
 ![Severe Weather Dashboard](tableau/dashboard_screenshots/severe_weather_dashboard.png)
 
 View the live interactive version here:
-[US Severe Weather Analysis 2000-2025](your tableau public link)her Analysis 2000-2025]:
+[US Severe Weather Analysis 2000-2025]:
 
 https://public.tableau.com/app/profile/greg.howell6601/viz/SevereWeatherAnalysis2000-2025/USSevereWeatherAnalysis2000-2025?publish=yes
 
