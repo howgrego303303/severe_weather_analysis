@@ -36,3 +36,8 @@ This project will analyze 25 years of severe weather through the use of NOAA's S
 
 ## Data Cleaning
 The NOAA data stores damage both property and crop as text strings (250K, 1M, ETC), I used a CASE statement to convert these numbers into real numbers and input them into new columns labeled damage_property_usd, and damage_crops_usd.
+
+
+## Dashboard
+View the interactive dashboard here:
+[US Severe Weather Analysis 2000-2025]:https://public.tableau.com/app/profile/greg.howell6601/viz/SevereWeatherAnalysis2000-2025/USSevereWeatherAnalysis2000-2025?publish=yes
